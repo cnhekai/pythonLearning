@@ -1,2 +1,2 @@
 # pythonLearnig
-这是一个学习文件
+python学习记录
